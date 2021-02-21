@@ -1,0 +1,16 @@
+.awssld {
+  z-index: -100;
+}
+.awssld__content {
+  height: 420px;
+}
+
+.awssld__controls button {
+  display: none;
+}
+.ielts {
+  display: none;
+}
+body {
+  margin: 0 auto;
+}
